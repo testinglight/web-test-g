@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+    color: cyan;
+}
+
+a{
+    color: darkgrey;
+    text-align: center;
+    
+}
+
+marquee{
+    color: chocolate;
+    font-size: medium;
+}
